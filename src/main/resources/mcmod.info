@@ -1,0 +1,15 @@
+[
+{
+  "modid": "meta",
+  "name": "Most Effective Tool for Annihilation",
+  "description": "Get the most effective tool for the block the user is currently looking at, works best on Shotbow's Annihilation!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SaxaphoneWalrus"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
